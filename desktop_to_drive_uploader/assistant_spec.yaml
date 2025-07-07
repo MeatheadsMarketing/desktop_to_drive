@@ -1,0 +1,7 @@
+name: desktop_to_drive_uploader
+description: |
+  Uploads all files from a specified local folder into a named Google Drive folder.
+  Automatically creates the destination folder if it does not exist.
+  Includes upload log, retry queue, and UI for folder inspection.
+tags: [drive, uploader, local_sync, gpt_threads]
+version: 1.0

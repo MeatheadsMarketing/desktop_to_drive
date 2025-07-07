@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "resurrection-intake-scanner",
+  "private_key_id": "03ca6d4caca6e6a32bce725c6897572880fe1343",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyLR9nW1ztWy55\noJwpUZuZGUfHaGlqPoi1TbUCxPxZdKs3aZ5lfSZPN2eutvwdZV8fI5vlxvnBiWPT\nSfWidkkjmRl14wkrFwpcXswAWtMzMCe8Tj4CRe3JodYhybyQjKGuPZsjfcC90cFV\n3vejyy6sPxCU5w64jzgFdkzWGtWLnJ8K9HdjTFTf9uX+whZm8i4iWd9GLh4Px9V3\nOrwJwt1n44JmUMXlZhm0dRG5wINBVBEbpA+4BbWqrUrXPtLmCBJiVlTnFnk1wJde\nq1UySe+fy+8/2S1gDNe+AEfRJFUKk/OxWEfRhos3kB9mnLXn2jd0DWaL2gZaVE8a\nbEFRbyUZAgMBAAECggEAA4N7B+5f7ODUT+r0RWbR9REP7q1fDcytpLijcgppKQjx\nUuqK6HixM5T1vxbl7hz4hRxOR9fWh0Pis3EVDlb7jn+HhmD7pm1CA6wNZRDlcxAX\nKoIW/DO9kpE10C0Cok2Zpx5ZI7goP74GDF/VHZZlRVmJhcwwKMDPQ6FPdtXo4ePE\nanxirtV304E7U6oyXXOQx+uXAsHlNOyvf/29SyWgeLO8amoTmunZGtUF6Yz+CioJ\nLPyeRV01lvaT26faHeKdOZOPPtRtDTIWCqgyM9UWOjVf6qedMWAULZNLhroKzH/l\n6HQbHcJqIVFIwaFenzoluvpKzWvrJQE0sE9NcD7VsQKBgQDzrbz8PS2sAFybpQYu\n9pBRyHn/Fb5+fHYCKIj03dcoACni+3O5+urRWxu6Q2r4iXoNzf/nTrXMUPVwugpM\nJHqF3cTc+b0kNs7Zsup1CKaGEQnCQCuyo6Z0V5PlPyAh4iONO++AXkR+R8tNcm2h\njCseJF7rI/094jfnthWFJTvaCQKBgQC7L3+ZnEwJ9xbLnxV1EKvmArF2lzYP4DKq\nsJNEHIK5kvct1eFgM/r4MB86xlrF8HbULeoH4SH3CJ5oo7Z3NXxkio2wzKffFiR6\nWSEyj3I51cBxSF5mQtIveKcMLSDLFLDLzvc2jZKLXisqdxfULykaU5CEB5L7vSX/\nWEHjD+T2kQKBgQDzZHIDsEfSKXpWrHqEphp41bmlJF7lkAN/HGXPz1V8ys0LvwVU\nml+5RTtozLYoEYksCLq2m1PTBHpjYi+u5jDLTTu5TGmzplrt71toEn/iIVqR/+6l\nu/gi9ObwcCD0NyAzjc4ndgEL8UIL1WPTnGHk9YcpbwUfrrkQZDsShqJFoQKBgAZt\n5DkXeDkjZoIJ7ce+kdjtoMDNAstazQK12+kL/aV4GctWPE58mpMpu/jd1UJVNw+k\noBQzNGJyxlYbwWmoyaP+ak13ShDMhuY4534AFVFNOTXq4WsrwmJlB3/QkP7IsCXf\n7vfNtwnYay0jOAtOr1+7HQyb4f2JiqORmXm+EwQxAoGAWcVhKuI4hdAyhhLOFfUk\nO4N7gMQbWIDSr3JRc0G4u2k5eAQ2Yj25EeMtE4ysQMjbt1Xsj62M5Bmj6sfVaGoi\nn9oKLx7pZVwOanx0HG4lQXbWhEA5YFrre7mSpHhaRkznZ6dgA9kwqPDKd8uhDaqk\n27D5c3TcYJQZ+SOG+E2XO9M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "desktop-to-drive@resurrection-intake-scanner.iam.gserviceaccount.com",
+  "client_id": "104761038741857585568",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/desktop-to-drive%40resurrection-intake-scanner.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
